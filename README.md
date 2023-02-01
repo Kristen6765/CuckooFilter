@@ -9,3 +9,5 @@ This is an implementation that allows customized number of bucket (m), number of
   **delete 1**, this is an example of delete operation where delete 1 in the filer.  
 4. If you want to exist then enter: exit
 5. To entirely exiting the execution enter exit again.
+
+Reference: ["Cuckoo Filter: Better than Bloom"](https://www.cs.cmu.edu/~dga/papers/cuckoo-conext2014.pdf) paper by researchers in CMU University.
